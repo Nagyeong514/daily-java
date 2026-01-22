@@ -15,7 +15,7 @@
 - [ ] 코드를 손에 익히기
 
 ## 📊 Quick Links
-- **강의 정보**: [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음](https://www.inflearn.com/course/알고리즘-자바-입문)
+- **강의 정보**: [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8?gad_source=1&gad_campaignid=20714471420&gbraid=0AAAAADAClSBnQLN7vlK1MFOr7-EJrfplb&gclid=CjwKCAiAj8LLBhAkEiwAJjbY727piTV70ZLJqZS2uP9FXLdh65GrNcp6hTlbOYFbmneQK8zLVf5pyxoCgjoQAvD_BwE)
 - **학습 환경**: IntelliJ IDEA / Java 21
 
 ---
