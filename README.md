@@ -1,4 +1,5 @@
 # daily-java
+# start-java
 > 김영한의 자바 강의를 수강하며 학습 내용을 기록하는 공간입니다.
 
 ## 📂 Repository Structure
