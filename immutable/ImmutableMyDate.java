@@ -1,10 +1,12 @@
 package lang.testAn.immutable;
 
+import lang.immutable.change.ImmutableObj;
+
 public class ImmutableMyDate {
 
-    private int year;
-    private int month;
-    private int day;
+    private final int year;
+    private final int month;
+    private final int day;
 
 
     public ImmutableMyDate(int year, int month, int day) {
@@ -13,20 +15,22 @@ public class ImmutableMyDate {
         this.day = day;
     }
 
-    public void setYear(int year) {
-        this.year = year;
+    public ImmutableMyDate withYear(int newYear) {
+        return new ImmutableMyDate(newYear, month, day);
+    }
+    public ImmutableMyDate withMonth(int newMonth) {
+        return new ImmutableMyDate(year, newMonth, day);
     }
 
-    public void setMonth(int month) {
-        this.month = month;
+    public ImmutableMyDate withDay (int newDay) {
+        return new ImmutableMyDate(year, month, newDay);
     }
 
-    public void setDay(int day) {
-        this.day = day;
-    }
+
 
     @Override
     public String toString() {
+
         return year + "-" + month + "-" + day;
     }
 }
