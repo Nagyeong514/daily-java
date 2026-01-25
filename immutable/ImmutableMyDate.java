@@ -1,13 +1,13 @@
 package lang.testAn.immutable;
 
-public class MyDate {
+public class ImmutableMyDate {
 
     private int year;
     private int month;
     private int day;
 
 
-    public MyDate(int year, int month, int day) {
+    public ImmutableMyDate(int year, int month, int day) {
         this.year = year;
         this.month = month;
         this.day = day;

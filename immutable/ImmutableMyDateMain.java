@@ -1,6 +1,6 @@
 package lang.testAn.immutable;
 
-public class MyDateMain {
+public class ImmutableMyDateMain {
 
     public static void main(String[] args) {
         MyDate date1 = new MyDate(2024, 1, 1);

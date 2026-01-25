@@ -1,6 +1,4 @@
-package lang.test.object;
-
-import java.util.Objects;
+package lang.testAn.object;
 
 public class Rectangle {
 

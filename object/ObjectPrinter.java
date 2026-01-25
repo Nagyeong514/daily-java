@@ -1,4 +1,4 @@
-package lang.test.object;
+package lang.testAn.object;
 
 // 나중에 새로운 클래스(Cat, Car, Phone 등)를 수백 개 추가해도 ObjectPrinter 코드는 단 한 줄도 수정할 필요가 없습니다.
 public class ObjectPrinter {
