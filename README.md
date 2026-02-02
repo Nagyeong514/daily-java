@@ -5,13 +5,16 @@
 각 폴더는 강의의 섹션별 문제풀이를 담고 있습니다.
 
 ## start-java
+>Commit message : [Solve]:Basic problems
 * **`loop`**: 섹션 6. 반복문 
 * **`scanner`**: 섹션 8. 훈련
 * **`array`**: 섹션 9. 배열
 * **`method`**: 섹션 10. 매서드
 ## basic-java
+>Commit message : [Solve]: Basic2 problems
 * **`classStart`**: 섹션 2. 클래스와 데이터
 ## mid1-java
+>Commit message : [Solve]:Mid1 problems
 * **`object`**: 섹션 2. 오브젝트 클래스
 * **`immutable`**: 섹션 3. 불변객체
 
