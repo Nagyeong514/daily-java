@@ -16,6 +16,11 @@ public class ProductOrderMain3 {
         order2.quantity = 1;
         order2 = productOrders[1];
 
+        ProductOrder order3 = new ProductOrder();
+        order3.productName = "보쌈";
+        order3.price = 3000;
+        order3.quantity = 2;
+        order3 = productOrders[2];
 
 
 
