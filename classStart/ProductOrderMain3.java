@@ -11,7 +11,13 @@ public class ProductOrderMain3 {
         order1 = productOrders[0];
 
         ProductOrder order2 = new ProductOrder();
-        order2.
+        order2.productName = "콜라";
+        order2.price = 1500;
+        order2.quantity = 1;
+        order2 = productOrders[1];
+
+
+
 
     }
 }
